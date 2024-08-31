@@ -1,11 +1,9 @@
-![image-20240831173327991](./release_demo/image/homepage.png)
+
+# M_Chart
 
 ![语言](https://img.shields.io/badge/语言-C++-9A90FD.svg)  ![部署](https://img.shields.io/badge/部署-Qt5.9.9-22C757.svg)
 
 [English](#en) | [中文](#cn)
-
-# M_Chart
-
 
 **C++课程设计，图表绘制、白板作图工具**
 

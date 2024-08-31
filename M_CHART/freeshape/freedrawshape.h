@@ -1,0 +1,4 @@
+#ifndef FREEDRAWSHAPE_H
+#define FREEDRAWSHAPE_H
+
+#endif // FREEDRAWSHAPE_H

@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/about.png</file>
+        <file>image/fold.png</file>
+        <file>image/setting.png</file>
+        <file>image/wholescreen.png</file>
+        <file>image/download.png</file>
+        <file>image/arrow.png</file>
+        <file>image/circle.png</file>
+        <file>image/diagram.png</file>
+        <file>image/draw.png</file>
+        <file>image/erasor.png</file>
+        <file>image/line.png</file>
+        <file>image/oval.png</file>
+        <file>image/para.png</file>
+        <file>image/pen.png</file>
+        <file>image/pencolor.png</file>
+        <file>image/pie.png</file>
+        <file>image/rect.png</file>
+        <file>image/reset.png</file>
+        <file>image/square.png</file>
+        <file>image/star.png</file>
+        <file>image/text.png</file>
+        <file>image/triangle.png</file>
+        <file>image/3D.png</file>
+        <file>image/clear.png</file>
+        <file>image/scatter3D.png</file>
+        <file>image/surface.png</file>
+        <file>image/trap.png</file>
+        <file>image/shape.png</file>
+        <file>image/home.png</file>
+        <file>image/table.png</file>
+        <file>image/help.png</file>
+    </qresource>
+</RCC>
